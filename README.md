@@ -17,5 +17,8 @@ Additional:
 - No dependencies / libraries other than React
 - Attempt to keep things functional
 
+#### Use Instructions
+Tested on Mac OSX Chrome (v64). Start local server and follow game steps.
+
 #### Comments
-Opted for less modular components in favor of simplicity in an effort to avoid  many layers of data flow/event bubbling since `App.js` is handling the main game state. 
+Opted for less modular components in favor of simplicity in an effort to avoid  many layers of data flow/event bubbling since `App.js` is handling the main game state.
