@@ -109,7 +109,7 @@ class App extends Component {
     return (
       <div>
         <div>
-          <h3>Player { this.state.turn.toUpperCase() }'s turn</h3>
+          <h3>Player { this.state.turn.toUpperCase() }&apos;s turn</h3>
           {
             this.state.gameReady ?
               <span>Select enemy tile to attack:</span>
